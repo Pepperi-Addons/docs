@@ -32,6 +32,13 @@ The API will do its best to find a cake matching the provided recipe.
 Whether the cake should be gluten-free or not.
 {% endapi-method-parameter %}
 {% endapi-method-query-parameters %}
+
+``` json 
+{
+    "ID": 23
+}
+```
+
 {% endapi-method-request %}
 
 {% api-method-response %}
